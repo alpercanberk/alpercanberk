@@ -1,6 +1,6 @@
 My name is Alper and I'm a second year undergrad CS major at Columbia. 
 
-I'm interested in robot learning / AI research 🔭. You can learn about my latest research paper ✨<a href="https://clothfunnels.cs.columbia.edu/">here</a>✨
+I'm interested in robot learning, language-guided robotics, and AI research in general 🔭. You can learn about my latest research paper ✨<a href="https://clothfunnels.cs.columbia.edu/">here</a>✨
 
 ![clothfunnels](https://user-images.githubusercontent.com/9828549/228424730-e9730304-9acb-4fce-af3e-6cf48ccf8507.gif)\
 
