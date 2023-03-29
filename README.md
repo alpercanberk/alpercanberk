@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Alper and I'm a second year undergraduate CS major at Columbia. 
+
+I like robot learning / AI research. You can learn about my latest research paper <a href="https://clothfunnels.cs.columbia.edu/">here</a>
+
+Also check out <a href="https://devpost.com/alpertucanberk">my Devpost</a> to see my past hackathon projects! 
+
 <!--
 **alpercanberk/alpercanberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
