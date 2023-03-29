@@ -2,6 +2,8 @@ My name is Alper and I'm a second year undergrad CS major at Columbia.
 
 I like robot learning / AI research 🔭. You can learn about my latest research paper ✨<a href="https://clothfunnels.cs.columbia.edu/">here</a>✨
 
+<video src='https://user-images.githubusercontent.com/9828549/228423855-5acb1adb-a85a-4881-a292-f4fafecadf8b.mp4'  width=180 autoplay loop muted/>
+
 Also check out <a href="https://devpost.com/alpertucanberk">my Devpost</a> to see my past hackathon projects ⚡! 
 
 <!--
@@ -18,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
