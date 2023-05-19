@@ -1,4 +1,4 @@
-my name is alper and i'm a second year undergrad cs major at columbia 🤖 
+my name is alper and i'm a rising junior undergrad cs major at columbia 🤖 
 
 i'm interested in robot learning, language-guided robotics, and AI research in general. 🔭
 
