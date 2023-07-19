@@ -2,7 +2,8 @@ my name is alper and i'm a rising junior undergrad cs major at columbia 🤖
 
 i'm interested in robot learning, language-guided robotics, and AI research in general. 🔭
 
-![clothfunnels](https://user-images.githubusercontent.com/9828549/228425182-72a91cfd-0a19-479d-b79e-fd99f6be4274.gif)
+<img src="https://user-images.githubusercontent.com/9828549/228425182-72a91cfd-0a19-479d-b79e-fd99f6be4274.gif" width="50%">
+
 <!--
 **alpercanberk/alpercanberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
