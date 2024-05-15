@@ -1,6 +1,7 @@
 my name is alper and i'm a cs major at columbia 🤖 
 
 i'm interested in robot learning, computer vision, large models, and AI research in general. 🔭
+(i trained the robot you see below)
 
 <img src="https://user-images.githubusercontent.com/9828549/228425182-72a91cfd-0a19-479d-b79e-fd99f6be4274.gif" width="20%">
 
